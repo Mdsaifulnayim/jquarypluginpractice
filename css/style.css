@@ -1,0 +1,43 @@
+.box{
+	min-height: 350px;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+.bt-s button{
+	border: 1px solid red;
+	color: white;
+}
+
+.box1{
+	
+	padding: 5px 5px;
+	min-height: 160px;
+}
+.box1 img{
+	width: 100%;
+}
+.srde{
+	width: 270px;
+	min-height: 150px;
+	border: 1px solid red;
+	text-align: center;
+}
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
